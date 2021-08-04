@@ -1,2 +1,4 @@
 # mean_yellow_griffin
-An outdoor enclosure for the Sensecap M1 Helium Miner
+An outdoor enclosure for the Sensecap M1 Helium Miner. After months of waiting for my outdoor Nebra I was lucky enough to win one of the 65 reraffled Sensecap M1s from Parley Labs. Having received the miner on July 31st I realized how important it was to get the unit outdoors to earn the most rewards seeing that my minimg career was going to start post halving.
+
+There is not a lot of info out in the community regarding outdoor enclosures for the Sensecap miner as it is so new to the market.  This is my take on it, keep in mind I live in Calgary, AB Canada so outdoor temps range from -40C to 35C.  I also live up on one of the higher areas in the city and the ski hill to the north of me has a weather station that often reports 90km/h wind gusts from the West off of the Rockie Mountains.
